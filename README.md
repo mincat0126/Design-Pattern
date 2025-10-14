@@ -6,6 +6,10 @@
 
 # Design Pattern - Creational
 ## Factory Method
+**Factory Method**: 객체 생성을 공장(Factory) 클래스로 캡슐화 처리하여 대신 생성하게 하는 생성 디자인 패턴
+
+**<장점>**
+1. 
 <img width="1478" height="697" alt="image" src="https://github.com/user-attachments/assets/0c31d7cb-098a-44b3-bcd8-0af8e7197721" />   
 <img width="750" height="521" alt="image" src="https://github.com/user-attachments/assets/d7d2a305-5572-46c7-a3bf-df105e158eef" />
 
